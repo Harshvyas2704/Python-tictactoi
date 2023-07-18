@@ -1,9 +1,4 @@
 
-"""
-minimaxing 1 player game
-
-"""
-
 def main():
     player1 = input("Enter Player1 name: ")
     player2 = input("Enter Player2 name: ")
